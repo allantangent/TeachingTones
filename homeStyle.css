@@ -1,6 +1,6 @@
 #body {
   background-color: black;
-  background-image: url( "homebg.jpg" );
+  background-image: url( "/resources/homebg.jpg" );
   background-repeat: repeat-x;
   background-position-y: 690px;
 }
