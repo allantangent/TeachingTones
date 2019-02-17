@@ -1,0 +1,33 @@
+#body {
+  background-color: black;
+  background-image: url( "homebg.jpg" );
+  background-repeat: repeat-x;
+  background-position-y: 690px;
+}
+
+#animate {
+  display: inline;
+}
+
+#header1 {
+  text-align: center;
+  /*color: yellow;*/
+  font-size: 42px;
+}
+
+#header2 {
+  text-align: center;
+  color: gold;
+  font-size: large;
+  font-style: italic;
+}
+
+#button {
+  color: red;
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(lightyellow, orange );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
